@@ -1,0 +1,126 @@
+@media only screen and (max-width:1199px) {
+	.floor-shadow {
+		top: 497px;
+	}
+	.team-hover-text {
+		margin-bottom: 20px;
+	}
+}
+@media only screen and (max-width: 1024px) {
+	.feature-middle {
+		margin: 40px auto 40px auto;
+	}
+	.mobile-f-text {
+		font-size: 12.89px;
+	}
+}
+@media only screen and (max-width:991px) {
+	.header-text {
+		top: 220px;
+	}
+	.header-text1 {
+		font-size: 50px;
+	}
+	.header-text2 {
+		font-size: 36px;
+	}
+	.header-text3 {
+		font-size: 15px;
+	}
+	.screen {
+		top: 60px;
+	}
+	.screen img {
+		width: 190px;
+	}
+	.floor-shadow {
+		top: 399px;
+	}
+	.mobile-f-text {
+		font-size: 10.89px;
+	}
+	.logo-footer {
+		padding: 0 30px 0 30px!important;
+	}
+	.footer-subscribe {
+		padding: 0 30px 0 30px!important;
+	}
+	.explore {
+		padding: 0 30px 0 30px!important;
+	}
+	.team-hover-title {
+		font-size: 11px;
+	}
+	.team-hover-text {
+		font-size: 11px;
+	}
+}
+@media only screen and (max-width:768px) {
+	.mobile-screen {
+		margin: 30px auto 30px auto;
+	}
+	.feature-middle {
+		margin: 25px auto 25px auto;
+	}
+	.logo-footer {
+		padding: 0 30px 0 30px!important;
+	}
+	.footer-subscribe {
+		padding: 0 30px 0 30px!important;
+	}
+	.explore {
+		padding: 0 30px 0 30px!important;
+	}
+}
+@media only screen and (max-width:576px) {
+	.header-text {
+		top: 225px;
+}
+	.header-text1 {
+		font-size: 48px;
+}
+	.header-text1 span {
+		font-size: 48px;
+}
+	.header-text2 {
+		font-size: 30px;
+}
+	.header-text2 span {
+		font-size: 30px;
+}
+	.header-text3 {
+		font-size: 13px;
+}
+	.header-text3 span:before,
+	.header-text3 span:after {
+  		height: 12px;
+  		top: 0;
+  		width: 18px;
+}
+	.header-text3  span:before {
+  		margin-right: 15px;
+}
+	.header-text3  span:after {
+  		margin-left: 15px;
+}
+	.header-icons i {
+		width: 20px;
+		height: 16px;
+}
+}
+@media only screen and (max-width:767px) {
+	.screen img {
+		width: 240px;
+	}
+	.screen {
+		top: 72px;
+	}
+	.floor-shadow {
+		top: 492px;
+	}
+}
+@media only screen and (max-width:320px) {
+	.floor-shadow {
+		top: 497px;
+	}
+}
